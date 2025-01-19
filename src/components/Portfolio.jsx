@@ -19,7 +19,7 @@ const Portfolio = () => {
         "/assets/image copy 60.png"
       ],
       links: {
-        pracflow: "https://pracflow.ai/CommunityResource",
+        pracflow: "https://pracflow.ai/",
         mentor: "https://www.linkedin.com/in/sourabh-goyal-22601734/"
       },
     },

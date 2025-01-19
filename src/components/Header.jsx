@@ -8,8 +8,7 @@ const Header = () => {
         className="inline-flex items-center rounded-md text-xl text-white focus:outline-none focus:ring-2 focus:ring-green-600 sm:text-3xl"
         href="/"
       >
-        <span className="mr-1 font-brand-primary">Aadarsh</span>
-        <span className="font-brand-primary font-bold">Prajapati</span>
+
       </a>
       <nav className="flex gap-4 sm:gap-8">
         <a

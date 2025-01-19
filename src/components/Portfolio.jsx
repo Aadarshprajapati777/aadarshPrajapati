@@ -46,7 +46,7 @@ const Portfolio = () => {
     {
       id: "agromaster",
       title: "Agromaster",
-      value: "Platform for farmers and researchers",
+      value: "For Farmers and Researchers",
       icon: "trophy",
       description: "agromaster",
       images: [

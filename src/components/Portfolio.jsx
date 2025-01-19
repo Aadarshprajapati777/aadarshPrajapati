@@ -89,7 +89,7 @@ const Portfolio = () => {
     {
       id: "Detection",
       title: "Deep Learning For Computer Vision - Object Detection",
-      value: "Object Detection using AlexNet Architecture",
+      value: "AlexNet Architecture",
       icon: "trophy",
       description: "dl",
       images: [
@@ -155,7 +155,7 @@ const Portfolio = () => {
     {
       id: "elt",
       title: "ELT FullStack Application",
-      value: "Data Engineering ELT FullStack Application",
+      value: "FullStack Application",
       icon: "money",
       description: "elt",
       images: [

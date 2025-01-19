@@ -19,7 +19,7 @@ const EducationExperience = () => {
     const experienceData = [
         {
             "period": "Oct 2024 – Present",
-            "company": "Kasicare 2 (Remote)",
+            "company": "Kasicare (Remote)",
             "role": "SDE - Intern",
             "description": "I am currently working as an SDE Intern at Kasicare, where I have architected a library and community platform for selling and sharing digital resources. I integrated a secure payment system for error-free transactions and optimized storage efficiency by preventing redundant S3 uploads through resource-link mapping. Additionally, I automated the sitemap generation process for all therapist sites with their dynamic content.",
             "tech": {
@@ -29,7 +29,7 @@ const EducationExperience = () => {
         },
         {
             "period": "Nov 2022 – Aug 2023",
-            "company": "amFOSS 2 - Amritapuri, India",
+            "company": "amFOSS - Amritapuri, India",
             "role": "Full-Stack Engineer",
             "description": "As a Full-Stack Engineer at amFOSS, I engineered full-stack applications focusing on performance, security, and cost efficiency. I also developed custom bots to automate daily tasks, significantly improving productivity and reducing manual workload for team members. Additionally, I refactored codebases to enhance performance and maintainability.",
             "tech": {

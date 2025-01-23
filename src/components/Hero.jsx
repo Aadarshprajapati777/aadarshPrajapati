@@ -114,7 +114,7 @@ const Hero = () => {
           {/* Call-'to-Action */}
           <div className="flex space-x-2">
             <a
-              href="/assets/aadarsh_prajapati_SDE_Resume.pdf"
+              href="/assets/SDE_aadarsh_prajapati_Resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="flex rounded-full border-2 bg-stone-900 px-4 py-2 text-sm font-medium text-white shadow-md outline-none hover:bg-stone-800 focus:ring-2 focus:ring-offset-2 focus:ring-offset-stone-800 border-green-800 focus:ring-green-800"

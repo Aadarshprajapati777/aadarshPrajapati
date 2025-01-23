@@ -136,7 +136,7 @@ const About = () => {
               <img
                 alt="profile-image"
                 className="object-cover"
-                src="/assets/ppp.png"
+                src="/assets/profilepic.jpeg"
                 style={{
                   position: "absolute",
                   height: "100%",
